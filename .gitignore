@@ -1,0 +1,12 @@
+# Sensitive files aur API keys
+.env
+api_keys.json
+security_audit.log
+server_logs.txt
+threat_report.txt
+
+# Caches aur environment folders
+intel_cache/
+__pycache__/
+.streamlit/
+*.pyc
